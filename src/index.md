@@ -19,7 +19,7 @@ hero:
 
 features:
   - title: 跨平台
-    details: Windows MacOS Linux(待实现)
+    details: Windows MacOS Linux
   - title: 轻量
     details: 基于webview2
   - title: 便捷使用
