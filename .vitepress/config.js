@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base:"/NgX",
+  base:"/NgX/",
   title: "NgX NaiveProxy GUI",
   description: "NaiveProxy GUI",
   srcDir:"src",
