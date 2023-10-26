@@ -1,5 +1,7 @@
 # NgX
 naiveproxy GUI
+
+Telegram group https://t.me/naiveproxygui
 ### 截图
 
 ![server](https://github.com/topoge/NgX/assets/36975447/da124bf9-fc39-4265-b21c-d676d441c028)
